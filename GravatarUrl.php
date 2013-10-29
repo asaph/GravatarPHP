@@ -16,7 +16,7 @@
  */
 
 /**
- * A class for building Gravatar URLs.
+ * A class for building Gravatar URLs
  * 
  * based on rules documented here: http://gravatar.com/site/implement/url
  * 
